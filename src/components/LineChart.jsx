@@ -58,7 +58,7 @@ ChartJS.register(
       {
         fill: true,
         label: " ",
-        data: [0,1.9,4,4.5],
+        data: [0,1.9,2.8,4.5,6.7,8.5,10],
         borderColor: 'rgb(152,226,231)',
         backgroundColor: 'rgba(227,242,243, 0.5)',
      
