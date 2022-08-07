@@ -8,7 +8,8 @@ function App() {
   return (
     <div className="App">
       
-     
+      <div className='mainContainer'>
+      
       <img src="petbackground.jpg" alt="" />
  <div className="chart-main">
      <LineChart  />
