@@ -7,7 +7,10 @@ function App() {
   
   return (
     <div className="App">
- <img src="petbackground.jpg" alt="" />
+      
+      <div className='mainContainer'>
+      
+      <img src="petbackground.jpg" alt="" />
  <div className="chart-main">
      <LineChart  />
  </div>
@@ -100,6 +103,8 @@ function App() {
 
  </div>
  <p className='finaltouch'>designed by<span> Mina Ozen Catherine Callahan</span></p>
+      </div>
+ 
     </div>
   );
 }

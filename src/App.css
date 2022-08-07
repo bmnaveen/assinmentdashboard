@@ -1,9 +1,12 @@
-.App {
+.App{
+  text-align: center;
+}
+.mainContainer{
   height: 100vh;
   width: 100vw;
-}
 
-.App >h1{
+}
+.mainContainer >h1{
 position: absolute;
 top: 28%;
 left: 10.2%;
@@ -11,19 +14,19 @@ font-size: 50px;
 padding: 0 5px 0 5px;
 font-size: 84px;
 }
-.App >h1:hover{
+.mainContainer >h1:hover{
   
   border: solid 1.5px grey;
   
   }
-  .App >h2{
+  .mainContainer >h2{
     position: absolute;
     top: 30.5%;
     left: 50.2%;
     font-size: 35px;
     padding: 0 5px 0 5px;
     }
-.App img{
+.mainContainer img{
  width: 100%;
  height: 100%;
  position:fixed;
