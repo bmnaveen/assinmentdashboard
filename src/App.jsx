@@ -8,8 +8,7 @@ function App() {
   return (
     <div className="App">
       
-      <div className='mainContainer'>
-      
+     
       <img src="petbackground.jpg" alt="" />
  <div className="chart-main">
      <LineChart  />
@@ -105,7 +104,7 @@ function App() {
  <p className='finaltouch'>designed by<span> Mina Ozen Catherine Callahan</span></p>
       </div>
  
-    </div>
+ 
   );
 }
 
