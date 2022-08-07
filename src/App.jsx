@@ -8,8 +8,6 @@ function App() {
   return (
     <div className="App">
       
-      
-      
       <img src="petbackground.jpg" alt="" />
  <div className="chart-main">
      <LineChart  />
@@ -32,7 +30,7 @@ function App() {
   <p>Note:Starts at Date of Transport</p>
  </div>
  <div className='second-chart'>
- <h3>Avg Time to Adopt by Age Bucket</h3>
+ <h3>Avg Time to Adopt over Time</h3>
 <SecondChart/>
  </div>
  <div className='proportion'>
